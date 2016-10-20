@@ -1,0 +1,34 @@
+#prefooter{
+}
+.prowPng{
+
+}
+
+.prefooterCont{
+    margin:0;
+    padding: 10px 0;
+}
+
+.prefooterCont > p{margin: 0;padding-left: 0;}
+
+.prefooterCont > a{
+    text-align: center;
+    text-decoration: none;
+    border: 1px solid lightgray;
+    border-radius: 11px;
+    background-color: #F0F2F4;
+    color: #23527c;
+}
+
+.preFootItem{
+    font-size: 1.5vw;
+    font-family: sans-serif;
+    color: #23527c;
+}
+
+.prowidedPng{margin: 0;}
+
+#prowPng{
+    width: 100%;
+    height: auto;
+}
